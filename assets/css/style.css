@@ -542,7 +542,7 @@ Margin Level
   	padding-top: 100px;
   }
 }
-@media only screen and (min-width: 330px) {
+@media only screen and (max-width: 330px) {
   .info_item{
     font-size: 13px;
   }

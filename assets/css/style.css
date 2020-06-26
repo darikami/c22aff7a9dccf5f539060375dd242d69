@@ -542,3 +542,15 @@ Margin Level
   	padding-top: 100px;
   }
 }
+@media only screen and (max-width: 330px) {
+  .info_item{
+    font-size: 13px;
+  }
+  .logo_info{
+    width: 47px;
+    height: 35px;
+  }
+  #sectionwave{
+    top:-180px !important;
+  }
+}

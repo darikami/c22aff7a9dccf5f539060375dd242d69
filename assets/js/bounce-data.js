@@ -67,10 +67,6 @@ function pad(n) {
 }
 
 var config = {
-	apiKey: "AIzaSyD1YS84fQ1xsmvg4bryJKI1ZVKLohpdAbM",
-	authDomain: "wed1-9f127.firebaseapp.com",
-	projectId : "wed1-9f127",
-	databaseURL: "https://wed1-9f127.firebaseio.com"
 };
 firebase.initializeApp(config);
 var db = firebase.firestore();
